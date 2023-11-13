@@ -23,7 +23,7 @@ Donny Maulana, S.Kom., M.M.S.I.
 
 ## Untuk Sourcecode Actifity
 
-#### [Sourcecode_Actifity](https://github.com/Mikel/Android/blob/main/app/src/main/java/com/hello/activity_popup.xml)
+#### [Sourcecode_Actifity](https://github.com/MikaelRivaldo/UTS-ANDROID/blob/master/app/src/main/res/layout/activity_popup.xml)
 
 
 ## **Hasil UAS :**
