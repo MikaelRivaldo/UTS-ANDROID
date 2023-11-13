@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloApps</string>
+    <string name="text_header" />
+    <string name="button_second" />
+    <string name="editText_second" />
+    <string name="button_main" />
+    <string name="editText_main" />
+    <string name="text_header_reply" />
+    <string name="article_title" />
+    <string name="article_text" />
+    <string name="article_subtitle" />
+    <string name="toast_message" />
+</resources>
