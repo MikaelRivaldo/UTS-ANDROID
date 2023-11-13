@@ -14,8 +14,22 @@
 ---
 <img align="center" alt="Coding" width="200" src="https://github.com/ricky1211/UTS_ANDROID/blob/main/foto.jpg?raw=true">
 Donny Maulana, S.Kom., M.M.S.I.
+
 ---
+## Untuk Sourcecode Java
+
+#### [Sourcecode_Java](https://github.com/Mikel/Android/blob/main/app/src/main/java/com/hello/MainActivity.java)
+
+## Untuk Sourcecode Actifity
+
+#### [Sourcecode_Actifity](https://github.com/Mikel/Android/blob/main/app/src/main/java/com/hello/activity_popup.xml)
+
 
 ## **Hasil UAS :**
 
-<img align="center" alt="Coding" width="200" src="
+
+https://github.com/MikaelRivaldo/UTS-ANDROID/assets/115770247/2cbdc326-fc12-41e0-ba54-62566987828f
+
+
+
+
