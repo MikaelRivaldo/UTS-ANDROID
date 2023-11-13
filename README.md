@@ -13,6 +13,7 @@
 ## Dosen Pengampu
 ---
 <img align="center" alt="Coding" width="200" src="https://github.com/ricky1211/UTS_ANDROID/blob/main/foto.jpg?raw=true">
+
 Donny Maulana, S.Kom., M.M.S.I.
 
 ---
